@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Azharlasi1
+- 👋 Hi, I’m @Muammad Azhar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning full Stack Web Development.
 - 💞️ I’m looking to collaborate on projects
